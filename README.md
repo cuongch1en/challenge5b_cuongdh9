@@ -2,5 +2,5 @@
 - docker-compose up -d
 
 # Tài khoản
-- `admin@example.com` : `password`
-- Sử dụng tài khoản admin trên để tiến hành chạy các chức năng trên website.
+- Tài khoản Admin: `admin@example.com` : `123456a@A`
+- Tài khoản User: `student1@example.com1` " `123456a@A`
